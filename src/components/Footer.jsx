@@ -7,7 +7,7 @@ const Footer = () => {
 
         {/* Logo / Title */}
         <h1 className="text-2xl font-extrabold text-green-600 mb-4">
-          বাজার দর
+          বাজার .কম
         </h1>
 
         {/* Description */}
@@ -30,7 +30,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <p className="text-gray-400 text-xs">
-          © 2026 বাজার দর. All Rights Reserved.
+          © 2026 বাজার .কম All Rights Reserved.
         </p>
 
       </div>

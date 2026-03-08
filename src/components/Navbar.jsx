@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="shadow-md py-4 bg-white">
       <div className="max-w-6xl mx-auto flex justify-between items-center">
 
-        <h1 className="text-2xl font-bold text-green-600">বাজার দর</h1>
+        <h1 className="text-2xl font-bold text-green-600">বাজার .কম</h1>
 
         <div className="hidden md:flex gap-6">
           <a href="#">হোম</a>
