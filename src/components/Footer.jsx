@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
 
         {/* Logo / Title */}
-        <h1 className="text-2xl font-extrabold text-green-600 mb-4">
+        <h1 className="text-2xl font-extrabold text-green-600 mb-4 cursor-pointer">
           বাজার .কম
         </h1>
 
